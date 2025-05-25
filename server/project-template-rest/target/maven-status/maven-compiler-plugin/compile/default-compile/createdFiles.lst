@@ -1,0 +1,7 @@
+com\project\template\api\ItemApi.class
+com\project\template\Application.class
+com\project\template\config\SpringDocsConfiguration.class
+com\project\template\config\TemplateConfig.class
+com\project\template\api\ApiUtil.class
+com\project\template\ProjectTemplateResponseEntityExceptionHandler.class
+com\project\template\rest\ItemController.class

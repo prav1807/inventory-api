@@ -1,0 +1,7 @@
+com\project\template\model\ItemRequestApiBean.class
+com\project\template\mapper\ItemMapperImpl.class
+com\project\template\model\ItemResponseApiBean.class
+com\project\template\service\impl\ItemServiceImpl.class
+com\project\template\exception\ResourceNotFoundException.class
+com\project\template\mapper\ItemMapper.class
+com\project\template\service\ItemService.class

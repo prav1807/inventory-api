@@ -1,0 +1,7 @@
+com\project\template\persistence\entity\ItemEntity$ItemEntityBuilder.class
+com\project\template\persistence\entity\QItemEntity.class
+com\project\template\persistence\entity\ItemEntity.class
+com\project\template\persistence\entity\QAuditModel.class
+com\project\template\persistence\repository\ItemRepository.class
+com\project\template\persistence\entity\AuditModel.class
+com\project\template\persistence\repository\AbstractRepository.class
